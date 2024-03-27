@@ -27,4 +27,5 @@ sudo apt install g++
 ----------------ros_realsense_install_git----------------
 https://github.com/issaiass/realsense_gazebo_plugin.git
 https://github.com/issaiass/realsense2_description.git
+https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i
 ----------------ros_realsense_install_git----------------
