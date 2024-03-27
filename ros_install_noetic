@@ -12,3 +12,9 @@ roscore
 When installation is not possible using ros
 (ex : sudo apt install ros-noetic-XXXX)
 sudo apt install g++
+
+
+----------------ros_realsense_install_git----------------
+https://github.com/issaiass/realsense_gazebo_plugin.git
+https://github.com/issaiass/realsense2_description.git
+----------------ros_realsense_install_git----------------
